@@ -4,7 +4,7 @@ let pedro = prompt('Ingrese su dinero pedro:');
 let cofla = prompt('Ingrese su dinero cofla:');
 
 /* Precio productos */
-let palitoagua = 0.60;
+let palitoagua = 0.70;
 let palitocrema = 1.00;
 let bombonheladix = 1.60;
 let bombonheladovich = 1.70;
